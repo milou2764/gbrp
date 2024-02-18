@@ -1,0 +1,6 @@
+AddCSLuaFile('gmod_legs_3/lua/gmod-legs-3/sh_legs.lua')
+AddCSLuaFile('gmod_legs_3/lua/gmod-legs-3/sh_vmenu.lua')
+AddCSLuaFile('gmod_legs_3/lua/gmod-legs-3/sh_vmenu_legs.lua')
+include('gmod_legs_3/lua/gmod-legs-3/sh_legs.lua')
+include('gmod_legs_3/lua/gmod-legs-3/sh_vmenu.lua')
+include('gmod_legs_3/lua/gmod-legs-3/sh_vmenu_legs.lua')
